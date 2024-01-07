@@ -38,3 +38,7 @@
 ## Демонстрация работы
 
 https://disk.yandex.ru/i/sOHQTm3Y749nJQ
+
+## Ссылка на архив проекта
+
+https://disk.yandex.ru/d/DW9AuyDF9pfd2A
